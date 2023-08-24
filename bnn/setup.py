@@ -6,7 +6,7 @@ with open("requirements.txt") as f:
 
 
 setup(
-    name='bayesianize',
+    name='cpe_vi_torch',
     version='0.0.1',
     url='https://github.com/TODO',
     author=['Hippolyt Ritter', 'Martin Kukla', 'Cheng Zhang', 'Yingzhen Li'],

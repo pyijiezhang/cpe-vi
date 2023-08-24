@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: cpe-vi-torch
+Version: 0.0.1
+Summary: Lightweight BNN wrapper for pytorch.
+Home-page: https://github.com/TODO
+Author: ['Hippolyt Ritter', 'Martin Kukla', 'Cheng Zhang', 'Yingzhen Li']
+License: MIT
+License-File: LICENSE

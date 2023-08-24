@@ -1,4 +1,4 @@
-name: bayesianize
+name: cpe_vi_torch
 channels:
   - pytorch
   - defaults
