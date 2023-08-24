@@ -116,7 +116,7 @@ def main(
     train_loader = data.DataLoader(
         train_data, batch_size=batch_size, shuffle=True, num_workers=2, pin_memory=True
     )
-    test_loader = data.DataLoader(test_data, batch_size=1000)
+    test_loader = data.DataLoader(test_data, batch_size=10000)
 
     net = bnn.nn.nets.make_network(
         f"resnet{resnet}", kernel_size=3, remove_maxpool=True, out_features=cifar
